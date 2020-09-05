@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PreTest1</string>
+    <string name="guess">GUESS</string>
+    <string name="exit">EXIT</string>
+    <string name="hint">Please Enter Number 1-100</string>
+    <string name="Tw2">The Guess Number</string>
+    <string name="titleDialog">Total Score</string>
+    <string name="msgDialog">Your is score</string>
+</resources>
